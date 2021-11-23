@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(233, 214, 227);
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(105, 6, 6);
+}
+.watch{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 50px;
+}
+.btns{
+    margin-left: 58px;
+    margin-top: 48px;
+}
+.button{
+    margin-left: 11px;
+    width: 90px;
+    height: 35px;
+    text-decoration: none;
+    border: none;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: rgb(105, 6, 6);
+    color: white;
+}
+.container{
+    width: 430px;
+    border-style: solid;
+    height: 250px;
+    margin-left: 446px;
+    border-radius: 45px;
+    border-color: rgb(105, 6, 6);
+}
